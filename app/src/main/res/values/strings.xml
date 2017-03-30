@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WIifiExample</string>
+    <string name="wifi_manager">Wifi Manager</string>
+    <string name="enable_wifi">Enable Wifi</string>
+    <string name="disable_wifi">Disable Wifi</string>
+    <string name="get_wifi_name">Get Wifi name</string>
+    <string name="is_connected">Is connected?</string>
+    <string name="connect_to_meeting_room">Connect to Meeting Room</string>
+
+    <string name="wifi_disabled">WIFI is switched off. Enable?</string>
+    <string name="exit_app">Exit application</string>
+    <string name="wifi_not_found">Network %s not found.</string>
+    <string name="wifi_not_connected">Could not connect to %s</string>
+    <string name="connecting_to_wifi">Connecting to WiFi: %s</string>
+    <string name="connecting">Connecting...</string>
+</resources>
